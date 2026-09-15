@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection
+#  Credit Card Fraud Detection
 
 A machine learning project to detect fraudulent credit card transactions using **Logistic Regression** and **Random Forest**, with special focus on handling highly imbalanced data using **SMOTE**.
 
@@ -8,7 +8,7 @@ A machine learning project to detect fraudulent credit card transactions using *
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Credit card fraud detection is a classic **imbalanced classification** problem.  
 Fraudulent transactions make up less than **0.2%** of the total data, making it challenging to build an effective model.
@@ -20,7 +20,7 @@ Fraudulent transactions make up less than **0.2%** of the total data, making it 
 
 ---
 
-## 🛠️ Approach
+##  Approach
 
 1. Exploratory Data Analysis
 2. Feature Scaling using `StandardScaler`
@@ -33,7 +33,7 @@ Fraudulent transactions make up less than **0.2%** of the total data, making it 
 
 ---
 
-## 📊 Key Results (Random Forest - Threshold 0.3)
+##  Key Results (Random Forest - Threshold 0.3)
 
 | Class   | Precision | Recall | F1-Score |
 |---------|-----------|--------|----------|
@@ -45,7 +45,7 @@ Fraudulent transactions make up less than **0.2%** of the total data, making it 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository
 2. Download `creditcard.csv` and place it in the project folder
